@@ -1,10 +1,11 @@
-# Hi!👋 I'm Srijana Bhakri😊 
 
+
+
+# Hi!👋 I'm Srijana Bhakri😊 
 Welcome to my GitHub profile! I'm a beginner in software development, passionate about learning and building projects that make a difference. 🚀  
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1607799632518-da91dd151b38?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" width="500" border=[50%]
-    height="500" alt="Coding GIF" />
+  <img src="https://images.unsplash.com/photo-1607799632518-da91dd151b38?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Coding GIF" width="600"  height="500"/>
 </div>  
 
 ---
@@ -47,6 +48,15 @@ Welcome to my GitHub profile! I'm a beginner in software development, passionate
 
 ---
 
+## 🌟 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 ## 🌟 Projects in Progress  
 
 - 🌐 Developing a **course listing page** using **React.js** and **Tailwind CSS**.  
@@ -57,7 +67,7 @@ Welcome to my GitHub profile! I'm a beginner in software development, passionate
 ## 📫 Let's Connect  
 
 <div align="center">
-  <a href="srijanabhakri08@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="#">
